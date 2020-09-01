@@ -16,3 +16,5 @@ This is not enough as it will give us the numerical value of the keys and hence 
 We can see that the Key "P" is stored as 25 and so similar with others. Now that we have mapped the keystrokes, we are not mapping space, new line and we are printing the value on the terminal one word per line, for this we will modify our code to handle these situations.
 
 Now our code is ready and you all csan see through key.c and all the keyvalues will be store in "/tmp/data".
+
+Look after the key.c file in this repository.
